@@ -28,6 +28,7 @@
     },
     "ntp": true,
     "packages": [
+        "alacritty",
         "base",
         "base-devel",
         "gcc",

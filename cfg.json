@@ -5,8 +5,6 @@
     },
     "bootloader": "Systemd-boot",
     "custom_commands": [],
-    "disk_config": {
-    },
     "hostname": "CHANGE",
     "kernels": [
         "linux",
